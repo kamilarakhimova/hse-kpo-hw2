@@ -4,6 +4,11 @@ import java.util.Scanner;
 public class UserInteraction {
     public static String path;
     private static final String FORCED_PROGRAM_ENDING_INFO = "\nВ связи с этим, программа завершает свою работу.";
+    
+    /**
+     * This method calls methods to print start info
+     * @return is path to root directory
+     */
     public static String startInfo() {
         printGreeting();
         setPath();
