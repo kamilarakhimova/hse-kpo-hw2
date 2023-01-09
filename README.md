@@ -1,12 +1,8 @@
 # hse-kpo-hw2
 
-## Author
+## Author, Group, University
 
-Rakhimova Kamila
-
-## Group
-
-BSE214
+Rakhimova Kamila, BSE214, HSE
 
 ## Topic
 
@@ -43,8 +39,8 @@ Also you can find test example in folder [BasicExample](https://github.com/kamil
 
 The task was completed with an expectation of getting a score 10/10.
 
-## Two good boys
+## Two good boys smile
 
 <img width="743" alt="Снимок экрана 2023-01-09 в 04 45 06" src="https://user-images.githubusercontent.com/58568615/211229622-1ee3f3f2-5674-4f42-a8af-44e7afe3b07c.png">
 
-## The end
+## The end!
