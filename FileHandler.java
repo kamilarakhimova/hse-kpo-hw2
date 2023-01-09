@@ -32,7 +32,7 @@ public class FileHandler {
     }
 
     /**
-     * This method searches text files in root directory
+     * This method searches txt files in root directory
      * @param directory is root directory
      */
     private static void searchTextFiles(File directory) {
