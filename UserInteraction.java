@@ -53,7 +53,7 @@ public class UserInteraction {
     }
 
     /**
-     * This method prints that no txt files were found in root directory
+     * This method prints that no text files were found in root directory
      */
     public static void printNoTxtFilesFound() {
         System.out.println("К сожалению, по указанному тобою пути не было найдено ни одного текстового " +
@@ -99,7 +99,7 @@ public class UserInteraction {
     }
 
     /**
-     * This method prints paths to txt files in the right order (as stated in the condition)
+     * This method prints paths to text files in the right order (as stated in the condition)
      * @param files is array of files in the right order
      */
     public static void printSortedFiles(File[] files) {
