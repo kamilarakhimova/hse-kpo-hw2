@@ -24,8 +24,8 @@ public class Checker {
     }
 
     /**
-     * This method checks is there any txt file in the root directory
-     * @param files is list of txt files from the root directory
+     * This method checks is there any text file in the root directory
+     * @param files is list of text files from the root directory
      */
     public static void checkEmptiness(List<File> files) {
         if (files.isEmpty()) {
@@ -37,7 +37,7 @@ public class Checker {
      * This method checks are there any cycle files
      * @param gotLength is length of original matrix of dependencies
      * @param gotMatrix is original matrix of dependencies
-     * @param gotFiles is original list of txt files
+     * @param gotFiles is original list of text files
      */
     public static void checkFilesCyclic(int gotLength, int[][] gotMatrix, List<File> gotFiles) {
         length = gotLength;
